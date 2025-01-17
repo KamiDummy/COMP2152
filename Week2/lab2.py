@@ -24,6 +24,4 @@ def main():
     except ValueError as e:
         print(f"Error: {e}")
 
-
-if __name__ == main:
-    main()
+main()
